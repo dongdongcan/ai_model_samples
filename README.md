@@ -15,9 +15,6 @@
 - 利用 resnet50 + 宠物数据集进行重训练：[点这里](https://github.com/dongdongcan/ai_model_samples/tree/main/resnet50_train_oxford_iiit_pet)
 
 ---
-## 其他
-- 本项目所有代码和相关文章，均为个人原创，未经同意，请勿随意转载至任何平台，更不可用于商业目的，我已委托相关维权人士对原创文章和代码进行监督。
----
 ## 联系我
 - 微信号：ddcsggcs
 - 公众号：[董董灿是个攻城狮](https://mp.weixin.qq.com/s/9sdmLFcNWnASmzpYNIhQKQ?token=273250015&lang=zh_CN)
