@@ -13,6 +13,7 @@
 # 项目目录
 
 - 利用 resnet50 + 宠物数据集进行重训练：[点这里](https://github.com/dongdongcan/ai_model_samples/tree/main/resnet50_train_oxford_iiit_pet)
+- 利用 resnet50 + 宠物数据集进行微调：[点这里](https://github.com/dongdongcan/ai_model_samples/tree/main/resnet50_fine_tune_oxford_iiit_pet)
 
 ---
 ## 联系我
