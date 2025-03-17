@@ -41,6 +41,7 @@ criterion = nn.CrossEntropyLoss()  # 交叉熵损失（适用于多分类）
 optimizer = optim.Adam(model.parameters(), lr=0.001)  # Adam 优化器，学习率 0.001
 scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.1)  # 每 5 epoch 学习率衰减 10%
 
+
 # 训练函数
 def train(epoch):
     model.train()  # 训练模式
