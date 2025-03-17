@@ -4,6 +4,14 @@
 
 每个模型为单独的文件目录，相关模型demo 的介绍参考各目录下的 README.md 文件。
 
+每个目录下都有对应 requirements.txt 文件，按照 requirements.txt 中给出的各 python 包的版本进行安装。
+
+推荐安装方法：
+```shell
+pip install -r requirements.txt
+```
+
+# 更多学习教程
 > 
 > 原创 AI 学习系列教程，点击这里：[https://www.yuque.com/yuqueyonghupftxbc/ai100/klydnq5blhqq8x1s](https://www.yuque.com/yuqueyonghupftxbc/ai100/klydnq5blhqq8x1s)
 >
@@ -12,8 +20,13 @@
 ---
 # 项目目录
 
+## 视觉项目
 - 利用 resnet50 + 宠物数据集进行重训练：[点这里](https://github.com/dongdongcan/ai_model_samples/tree/main/resnet50_train_oxford_iiit_pet)
 - 利用 resnet50 + 宠物数据集进行微调：[点这里](https://github.com/dongdongcan/ai_model_samples/tree/main/resnet50_fine_tune_oxford_iiit_pet)
+- 利用 resnet50 进行推理，识别图片:[点这里](./resnet50_inference_sample/)
+
+## 大模型项目
+- 利用 qwen2-0.5B-chat 进行对话演示:[点这里](./qwen2_0.5B_chat_sample/)
 
 ---
 ## 联系我
