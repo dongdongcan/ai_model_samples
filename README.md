@@ -28,6 +28,10 @@ pip install -r requirements.txt
 
 ## 大模型项目
 - 利用 qwen2-0.5B-chat 进行对话演示:[点这里](./qwen2_0.5B_chat_sample/)
+- 利用 vllm 部署 qwen2-0.5B:[点这里](./vllm_qwen2_0.5B_deploy/)
+
+## 微调项目
+- 利用peft 微调 qwen2-0.5B:[点这里](./fine_tune_qwen2_0.5B_lora/)
 
 ---
 ## 联系我
