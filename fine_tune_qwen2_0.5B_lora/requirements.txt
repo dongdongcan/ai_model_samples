@@ -1,0 +1,4 @@
+peft==0.14.0
+torch==2.5.1
+transformers==4.48.3
+modelscope==1.23.0

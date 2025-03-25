@@ -31,7 +31,7 @@ pip install -r requirements.txt
 - 利用 vllm 部署 qwen2-0.5B:[点这里](./vllm_qwen2_0.5B_deploy/)
 
 ## 微调项目
-- 利用peft 微调 qwen2-0.5B:[点这里](./fine_tune_qwen2_0.5B_lora/)
+- 利用 peft/lora 微调 qwen2-0.5B:[点这里](./fine_tune_qwen2_0.5B_lora/)
 
 ---
 ## 联系我
