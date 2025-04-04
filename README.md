@@ -15,7 +15,7 @@ pip install -r requirements.txt
 > 
 > 原创 AI 学习系列教程，点击这里：[AI小白到AI大神的天梯之路](https://www.yuque.com/yuqueyonghupftxbc/ai100/snfie4aka5fn5ykg)
 >
-> 加入知识星球，一起学习 AI ： [2025我们星球见](https://mp.weixin.qq.com/s/_c7KlPvGUV3pMgFg2uRD6Q)
+> 加入《小而精的 AI 学习圈》知识星球，一起学习 AI ： [2025我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
 
 ---
 # 项目目录
