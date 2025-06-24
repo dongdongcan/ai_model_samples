@@ -25,10 +25,19 @@ pip install -r requirements.txt
 - 利用 resnet50 + 宠物数据集进行微调：[点这里](https://github.com/dongdongcan/ai_model_samples/tree/main/resnet50_fine_tune_oxford_iiit_pet)
 - 利用 resnet50 进行推理，识别图片:[点这里](./resnet50_inference_sample/)
 - 利用 yolo 完成图像的目标检测：[点这里](./yolo_detection_sample/)
+- 利用 yolo_V3 完成图像的目标检测：[点这里](./yolo_v3_detection_sample/)
+- 多种模型和方法完成人脸识别：[点这里](./face_detect/)
+- 多种模型和方法完成手写数字识别：[点这里](./mnist_sample/)
+
 
 ## 大模型项目
-- 利用 qwen2-0.5B-chat 进行对话演示:[点这里](./qwen2_0.5B_chat_sample/)
+- 利用 qwen2-0.5B 进行对话演示:[点这里](./chat_with_qwen2_0.5B_sample/)
+- 利用 qwen2.5-0.5B 进行对话演示:[点这里](./chat_with_qwen2.5_0.5B_sample/)
+- 利用 qwen2.5-3B-instruct 进行对话演示:[点这里](./chat_with_qwen2.5_3B_instruct/)
+- 利用 llama 进行对话演示:[点这里](./chat_with_llama_sample/)
+- 利用 chatglm 进行对话演示:[点这里](./chat_with_chatglm_sample/)
 - 利用 vllm 部署 qwen2-0.5B:[点这里](./vllm_qwen2_0.5B_deploy/)
+- OpenAI 项目，在线部署/前端页面/API部署:[点这里](./openai/)
 
 ## 微调项目
 - 利用 peft/lora 微调 qwen2-0.5B:[点这里](./fine_tune_qwen2_0.5B_lora/)
