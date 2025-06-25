@@ -42,6 +42,9 @@ pip install -r requirements.txt
 ## 微调项目
 - 利用 peft/lora 微调 qwen2-0.5B:[点这里](./fine_tune_qwen2_0.5B_lora/)
 
+## 多模态模型 
+- 利用 qwen2-VL-2B 进行图片理解和对话:[点这里](./chat_with_qwen2_VL_2B_instruct/)
+
 ---
 ## 联系我
 - 微信号：ddcsggcs
