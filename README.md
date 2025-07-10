@@ -34,6 +34,7 @@ pip install -r requirements.txt
 - 利用 qwen2-0.5B 进行对话演示:[点这里](./chat_with_qwen2_0.5B_sample/)
 - 利用 qwen2.5-0.5B 进行对话演示:[点这里](./chat_with_qwen2.5_0.5B_sample/)
 - 利用 qwen2.5-3B-instruct 进行对话演示:[点这里](./chat_with_qwen2.5_3B_instruct/)
+- 利用 qwen6-0.6B 进行对话演示:[点这里](./chat_with_qwen3_0.6B_dense/) (这是一个 dense 模型)
 - 利用 llama 进行对话演示:[点这里](./chat_with_llama_sample/)
 - 利用 chatglm 进行对话演示:[点这里](./chat_with_chatglm_sample/)
 - 利用 vllm 部署 qwen2-0.5B:[点这里](./vllm_qwen2_0.5B_deploy/)
