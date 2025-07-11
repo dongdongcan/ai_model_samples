@@ -1,3 +1,15 @@
+# 更多学习教程
+> 
+> 《AI视觉入门与调优》专栏：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/klydnq5blhqq8x1s)
+> 
+> 《Transformer通关秘籍》专栏：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
+>
+> 《从零手写大模型实战》专栏：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/lc1bna1l1dl2zp39)
+>
+> 原创 AI 学习系列教程，点击这里：[AI小白到AI大神的天梯之路](https://www.yuque.com/yuqueyonghupftxbc/ai100/snfie4aka5fn5ykg)
+>
+> 加入《小而精的 AI 学习圈》知识星球，一起学习 AI ： [我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
+
 # ai_model_samples
 
 本仓库包含一些与 AI 模型相关的 demo。
@@ -10,12 +22,6 @@
 ```shell
 pip install -r requirements.txt
 ```
-
-# 更多学习教程
-> 
-> 原创 AI 学习系列教程，点击这里：[AI小白到AI大神的天梯之路](https://www.yuque.com/yuqueyonghupftxbc/ai100/snfie4aka5fn5ykg)
->
-> 加入《小而精的 AI 学习圈》知识星球，一起学习 AI ： [2025我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
 
 ---
 # 项目目录
